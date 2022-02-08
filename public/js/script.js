@@ -1,0 +1,1 @@
+console.log("Hi I'm a static file running on the client!")
